@@ -1,0 +1,68 @@
+% !TEX TS-program = XeLaTeX
+\documentclass[11pt]{book}
+
+
+
+\usepackage{fontspec}
+\setmainfont{JosefinSans}[
+Path = ./fonts/josefin/ ,
+Extension = .ttf ,
+UprightFont = *-Regular ,
+BoldFont = *-Bold ]
+
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+
+\usepackage[paperwidth=100mm,paperheight=180mm,top=12mm,bottom=12mm,outer=10mm,inner=10mm]{geometry}
+\usepackage[]{matrita}
+\usepackage{indentfirst}
+\usepackage{graphicx}
+\usepackage{pict2e}
+
+\usepackage{lettrine}
+\usepackage{fancyhdr}
+\usepackage{afterpage}
+\usepackage{wasysym}
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\fancyhead{} % clear all header fields
+\fancyfoot{} % clear all footer fields
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+
+\begin{document}
+
+\begin{center}
+
+\begin{figure}
+%\vspace*{1cm}
+
+\centering
+\includegraphics[scale=0.3]{img/Logo_piccolo.eps}
+
+\NSposo \ e \NSposa\\
+15 Settembre 2018\\
+\end{figure}
+
+\Huge Menu\\
+\hfill\break
+
+\normalsize
+\textbf{Primi piatti}\\
+Risotto Carnaroli ai frutti di mare caramellati e mandarino\\
+\hfill\break
+Pippo Pluto e Paperino
+\hfill\break
+
+\textbf{Secondo piatto}\\
+Stambecco salterino
+\hfill\break
+
+\textbf{Dolci}\\
+Torta nuziale
+\vfill
+\end{center}
+
+\end{document}
