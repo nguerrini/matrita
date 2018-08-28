@@ -1,0 +1,297 @@
+%% Creator: Inkscape inkscape 0.92.2, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'img/tableau-no-first.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1500bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{img/tableau-no-first.pdf}}%
+    \put(0.55950629,0.62240147){\rotatebox{76.72131148}{\makebox(0,0)[rb]{\smash{Comte e Durkheim}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{img/tableau-no-first.pdf}}%
+    \put(0.63354616,0.58419469){\rotatebox{48.68852459}{\makebox(0,0)[rb]{\smash{Norman e Shallice}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{img/tableau-no-first.pdf}}%
+    \put(0.68094329,0.51567336){\rotatebox{20.6557377}{\makebox(0,0)[rb]{\smash{Le Cun e Bengio}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{img/tableau-no-first.pdf}}%
+    \put(0.69148701,0.44172582){\rotatebox{-4.42622951}{\makebox(0,0)[rb]{\smash{DeSaussure e Chomsky}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{img/tableau-no-first.pdf}}%
+    \put(0.66968906,0.37028173){\rotatebox{-29.50819672}{\makebox(0,0)[rb]{\smash{Wirth e VanRossum}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{img/tableau-no-first.pdf}}%
+    \put(0.60854436,0.30754188){\rotatebox{-59.01639344}{\makebox(0,0)[rb]{\smash{Pierre e Marie Courie}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{img/tableau-no-first.pdf}}%
+    \put(0.51557136,0.28305702){\rotatebox{88.52459016}{\makebox(0,0)[lb]{\smash{Kernighan e Ritchie}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{img/tableau-no-first.pdf}}%
+    \put(0.43145564,0.30754188){\rotatebox{59.01639344}{\makebox(0,0)[lb]{\smash{Turing e Clarke}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{img/tableau-no-first.pdf}}%
+    \put(0.3748706,0.36268825){\rotatebox{32.45901639}{\makebox(0,0)[lb]{\smash{Babbage e Lovelace}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{img/tableau-no-first.pdf}}%
+    \put(0.34851299,0.44172582){\rotatebox{4.42622951}{\makebox(0,0)[lb]{\smash{Watson e Crick}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{img/tableau-no-first.pdf}}%
+    \put(0.36239349,0.52387807){\rotatebox{-23.60655738}{\makebox(0,0)[lb]{\smash{Linnaeus e Darwin}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{img/tableau-no-first.pdf}}%
+    \put(0.40981797,0.58707544){\rotatebox{-50.16393443}{\makebox(0,0)[lb]{\smash{Berners Lee e Cailliau}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{img/tableau-no-first.pdf}}%
+    \put(0.48049371,0.62240147){\rotatebox{-76.72131148}{\makebox(0,0)[lb]{\smash{Shannon e Weaver}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{img/tableau-no-first.pdf}}%
+    \put(0.538172,0.80753195){\rotatebox{87.04918033}{\makebox(0,0)[lb]{\smash{Luisa}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{img/tableau-no-first.pdf}}%
+    \put(0.55629581,0.80612906){\rotatebox{84.09836066}{\makebox(0,0)[lb]{\smash{Zio Marco}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{img/tableau-no-first.pdf}}%
+    \put(0.57432337,0.80379503){\rotatebox{81.14754098}{\makebox(0,0)[lb]{\smash{Zia Daniela}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{img/tableau-no-first.pdf}}%
+    \put(0.59220688,0.80053606){\rotatebox{78.19672131}{\makebox(0,0)[lb]{\smash{Roberta}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{img/tableau-no-first.pdf}}%
+    \put(0.60989891,0.79636079){\rotatebox{75.24590164}{\makebox(0,0)[lb]{\smash{Mattia}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{img/tableau-no-first.pdf}}%
+    \put(0.62735254,0.79128029){\rotatebox{72.29508197}{\makebox(0,0)[lb]{\smash{Camilla C}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{img/tableau-no-first.pdf}}%
+    \put(0.64452149,0.78530804){\rotatebox{69.3442623}{\makebox(0,0)[lb]{\smash{Tommaso C}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{img/tableau-no-first.pdf}}%
+    \put(0.66136023,0.77845987){\rotatebox{66.39344262}{\makebox(0,0)[lb]{\smash{Filippo C}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{img/tableau-no-first.pdf}}%
+    \put(0.69386947,0.76221069){\rotatebox{60.49180328}{\makebox(0,0)[lb]{\smash{Luca Beccalossi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{img/tableau-no-first.pdf}}%
+    \put(0.70945376,0.75285277){\rotatebox{57.54098361}{\makebox(0,0)[lb]{\smash{Andrea Beccalossi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{img/tableau-no-first.pdf}}%
+    \put(0.72453565,0.742705){\rotatebox{54.59016393}{\makebox(0,0)[lb]{\smash{Paola Quarena}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{img/tableau-no-first.pdf}}%
+    \put(0.73907515,0.73179429){\rotatebox{51.63934426}{\makebox(0,0)[lb]{\smash{Meno}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{img/tableau-no-first.pdf}}%
+    \put(0.7530337,0.72014957){\rotatebox{48.68852459}{\makebox(0,0)[lb]{\smash{Alice}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{img/tableau-no-first.pdf}}%
+    \put(0.76637429,0.70780172){\rotatebox{45.73770492}{\makebox(0,0)[lb]{\smash{Darietto}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{img/tableau-no-first.pdf}}%
+    \put(0.77906153,0.69478349){\rotatebox{42.78688525}{\makebox(0,0)[lb]{\smash{Gloria}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{img/tableau-no-first.pdf}}%
+    \put(0.7910618,0.68112939){\rotatebox{39.83606557}{\makebox(0,0)[lb]{\smash{Efrem}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{img/tableau-no-first.pdf}}%
+    \put(0.80234325,0.66687564){\rotatebox{36.8852459}{\makebox(0,0)[lb]{\smash{Alessia}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{img/tableau-no-first.pdf}}%
+    \put(0.82263206,0.63672186){\rotatebox{30.98360656}{\makebox(0,0)[lb]{\smash{Faina}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{img/tableau-no-first.pdf}}%
+    \put(0.83158562,0.62090179){\rotatebox{28.03278689}{\makebox(0,0)[lb]{\smash{Betta}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{img/tableau-no-first.pdf}}%
+    \put(0.8397129,0.60464178){\rotatebox{25.08196721}{\makebox(0,0)[lb]{\smash{One}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{img/tableau-no-first.pdf}}%
+    \put(0.84699236,0.58798495){\rotatebox{22.13114754}{\makebox(0,0)[lb]{\smash{Anna}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{img/tableau-no-first.pdf}}%
+    \put(0.8534047,0.57097546){\rotatebox{19.18032787}{\makebox(0,0)[lb]{\smash{Alice Bigioli}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{img/tableau-no-first.pdf}}%
+    \put(0.85893291,0.55365843){\rotatebox{16.2295082}{\makebox(0,0)[lb]{\smash{Silvia}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=37]{img/tableau-no-first.pdf}}%
+    \put(0.86356232,0.53607977){\rotatebox{13.27868852}{\makebox(0,0)[lb]{\smash{Edo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=38]{img/tableau-no-first.pdf}}%
+    \put(0.86728068,0.51828611){\rotatebox{10.32786885}{\makebox(0,0)[lb]{\smash{Ricky}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=39]{img/tableau-no-first.pdf}}%
+    \put(0.87194719,0.48224294){\rotatebox{4.42622951}{\makebox(0,0)[lb]{\smash{Lucia}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=40]{img/tableau-no-first.pdf}}%
+    \put(0.87288297,0.46408901){\rotatebox{1.47540984}{\makebox(0,0)[lb]{\smash{Salvatore}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=41]{img/tableau-no-first.pdf}}%
+    \put(0.87288297,0.44591099){\rotatebox{-1.47540984}{\makebox(0,0)[lb]{\smash{Ivonne}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=42]{img/tableau-no-first.pdf}}%
+    \put(0.87194719,0.42775706){\rotatebox{-4.42622951}{\makebox(0,0)[lb]{\smash{Giuseppe}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=43]{img/tableau-no-first.pdf}}%
+    \put(0.8700781,0.40967538){\rotatebox{-7.37704918}{\makebox(0,0)[lb]{\smash{Antonietta}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=44]{img/tableau-no-first.pdf}}%
+    \put(0.86728068,0.39171389){\rotatebox{-10.32786885}{\makebox(0,0)[lb]{\smash{Leo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=45]{img/tableau-no-first.pdf}}%
+    \put(0.86356232,0.37392023){\rotatebox{-13.27868852}{\makebox(0,0)[lb]{\smash{Nuccia}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=46]{img/tableau-no-first.pdf}}%
+    \put(0.8534047,0.33902454){\rotatebox{-19.18032787}{\makebox(0,0)[lb]{\smash{GiorgioParisotto}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=47]{img/tableau-no-first.pdf}}%
+    \put(0.84699236,0.32201505){\rotatebox{-22.13114754}{\makebox(0,0)[lb]{\smash{ElisabettaZucchi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=48]{img/tableau-no-first.pdf}}%
+    \put(0.8397129,0.30535822){\rotatebox{-25.08196721}{\makebox(0,0)[lb]{\smash{Laura}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=49]{img/tableau-no-first.pdf}}%
+    \put(0.83158562,0.28909821){\rotatebox{-28.03278689}{\makebox(0,0)[lb]{\smash{Tiberio}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=50]{img/tableau-no-first.pdf}}%
+    \put(0.82263206,0.27327814){\rotatebox{-30.98360656}{\makebox(0,0)[lb]{\smash{Francesca}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=51]{img/tableau-no-first.pdf}}%
+    \put(0.81287599,0.25793997){\rotatebox{-33.93442623}{\makebox(0,0)[lb]{\smash{Ezio}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=52]{img/tableau-no-first.pdf}}%
+    \put(0.80234325,0.24312436){\rotatebox{-36.8852459}{\makebox(0,0)[lb]{\smash{Aurora}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=53]{img/tableau-no-first.pdf}}%
+    \put(0.7910618,0.22887061){\rotatebox{-39.83606557}{\makebox(0,0)[lb]{\smash{Matilde}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=54]{img/tableau-no-first.pdf}}%
+    \put(0.76637429,0.20219828){\rotatebox{-45.73770492}{\makebox(0,0)[lb]{\smash{MammaGiovanna}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=55]{img/tableau-no-first.pdf}}%
+    \put(0.7530337,0.18985043){\rotatebox{-48.68852459}{\makebox(0,0)[lb]{\smash{PapàMaurizio}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=56]{img/tableau-no-first.pdf}}%
+    \put(0.73907515,0.17820571){\rotatebox{-51.63934426}{\makebox(0,0)[lb]{\smash{ZioDino}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=57]{img/tableau-no-first.pdf}}%
+    \put(0.72453565,0.167295){\rotatebox{-54.59016393}{\makebox(0,0)[lb]{\smash{ZiaRosa}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=58]{img/tableau-no-first.pdf}}%
+    \put(0.70945376,0.15714723){\rotatebox{-57.54098361}{\makebox(0,0)[lb]{\smash{PaoloFostinelli}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=59]{img/tableau-no-first.pdf}}%
+    \put(0.69386947,0.14778931){\rotatebox{-60.49180328}{\makebox(0,0)[lb]{\smash{DanielaCantadore}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=60]{img/tableau-no-first.pdf}}%
+    \put(0.67782411,0.13924606){\rotatebox{-63.44262295}{\makebox(0,0)[lb]{\smash{Roberto}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=61]{img/tableau-no-first.pdf}}%
+    \put(0.66136023,0.13154013){\rotatebox{-66.39344262}{\makebox(0,0)[lb]{\smash{Antonella}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=62]{img/tableau-no-first.pdf}}%
+    \put(0.64452149,0.12469196){\rotatebox{-69.3442623}{\makebox(0,0)[lb]{\smash{Dino}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=63]{img/tableau-no-first.pdf}}%
+    \put(0.62735254,0.11871971){\rotatebox{-72.29508197}{\makebox(0,0)[lb]{\smash{Giusy}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=64]{img/tableau-no-first.pdf}}%
+    \put(0.59220688,0.10946394){\rotatebox{-78.19672131}{\makebox(0,0)[lb]{\smash{EnricoBrusati}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=65]{img/tableau-no-first.pdf}}%
+    \put(0.57432337,0.10620497){\rotatebox{-81.14754098}{\makebox(0,0)[lb]{\smash{ElisaBeccalupi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=66]{img/tableau-no-first.pdf}}%
+    \put(0.55629581,0.10387094){\rotatebox{-84.09836066}{\makebox(0,0)[lb]{\smash{Faby}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=67]{img/tableau-no-first.pdf}}%
+    \put(0.538172,0.10246805){\rotatebox{-87.04918033}{\makebox(0,0)[lb]{\smash{Santino}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=68]{img/tableau-no-first.pdf}}%
+    \put(0.52,0.102){\rotatebox{90}{\makebox(0,0)[rb]{\smash{MichelaMoirardelli}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=69]{img/tableau-no-first.pdf}}%
+    \put(0.501828,0.10246805){\rotatebox{87.04918033}{\makebox(0,0)[rb]{\smash{NicoleMazzocchi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=70]{img/tableau-no-first.pdf}}%
+    \put(0.48370419,0.10387094){\rotatebox{84.09836066}{\makebox(0,0)[rb]{\smash{FiglioMazzocchi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=71]{img/tableau-no-first.pdf}}%
+    \put(0.46567663,0.10620497){\rotatebox{81.14754098}{\makebox(0,0)[rb]{\smash{Vale}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=72]{img/tableau-no-first.pdf}}%
+    \put(0.44779312,0.10946394){\rotatebox{78.19672131}{\makebox(0,0)[rb]{\smash{Isa}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=73]{img/tableau-no-first.pdf}}%
+    \put(0.43010109,0.11363921){\rotatebox{75.24590164}{\makebox(0,0)[rb]{\smash{Antonio}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=74]{img/tableau-no-first.pdf}}%
+    \put(0.39547851,0.12469196){\rotatebox{69.3442623}{\makebox(0,0)[rb]{\smash{LorenzoCapecchi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=75]{img/tableau-no-first.pdf}}%
+    \put(0.37863977,0.13154013){\rotatebox{66.39344262}{\makebox(0,0)[rb]{\smash{Takako}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=76]{img/tableau-no-first.pdf}}%
+    \put(0.36217589,0.13924606){\rotatebox{63.44262295}{\makebox(0,0)[rb]{\smash{Gufo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=77]{img/tableau-no-first.pdf}}%
+    \put(0.34613053,0.14778931){\rotatebox{60.49180328}{\makebox(0,0)[rb]{\smash{MichelaGuerini}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=78]{img/tableau-no-first.pdf}}%
+    \put(0.33054624,0.15714723){\rotatebox{57.54098361}{\makebox(0,0)[rb]{\smash{Martino}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=79]{img/tableau-no-first.pdf}}%
+    \put(0.31546435,0.167295){\rotatebox{54.59016393}{\makebox(0,0)[rb]{\smash{Nico}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=80]{img/tableau-no-first.pdf}}%
+    \put(0.30092485,0.17820571){\rotatebox{51.63934426}{\makebox(0,0)[rb]{\smash{Cailu}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=81]{img/tableau-no-first.pdf}}%
+    \put(0.2869663,0.18985043){\rotatebox{48.68852459}{\makebox(0,0)[rb]{\smash{Vera}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=82]{img/tableau-no-first.pdf}}%
+    \put(0.26093847,0.21521651){\rotatebox{42.78688525}{\makebox(0,0)[rb]{\smash{MammaOrnella}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=83]{img/tableau-no-first.pdf}}%
+    \put(0.2489382,0.22887061){\rotatebox{39.83606557}{\makebox(0,0)[rb]{\smash{PapàEnrico}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=84]{img/tableau-no-first.pdf}}%
+    \put(0.23765675,0.24312436){\rotatebox{36.8852459}{\makebox(0,0)[rb]{\smash{Paola}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=85]{img/tableau-no-first.pdf}}%
+    \put(0.22712401,0.25793997){\rotatebox{33.93442623}{\makebox(0,0)[rb]{\smash{Stefano}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=86]{img/tableau-no-first.pdf}}%
+    \put(0.21736794,0.27327814){\rotatebox{30.98360656}{\makebox(0,0)[rb]{\smash{Filippo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=87]{img/tableau-no-first.pdf}}%
+    \put(0.20841438,0.28909821){\rotatebox{28.03278689}{\makebox(0,0)[rb]{\smash{Lorenzo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=88]{img/tableau-no-first.pdf}}%
+    \put(0.2002871,0.30535822){\rotatebox{25.08196721}{\makebox(0,0)[rb]{\smash{AlessandroQuarena}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=89]{img/tableau-no-first.pdf}}%
+    \put(0.19300764,0.32201505){\rotatebox{22.13114754}{\makebox(0,0)[rb]{\smash{Eleonora}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=90]{img/tableau-no-first.pdf}}%
+    \put(0.18106709,0.35634157){\rotatebox{16.2295082}{\makebox(0,0)[rb]{\smash{ZiaStefania}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=91]{img/tableau-no-first.pdf}}%
+    \put(0.17643768,0.37392023){\rotatebox{13.27868852}{\makebox(0,0)[rb]{\smash{ZioRiccardo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=92]{img/tableau-no-first.pdf}}%
+    \put(0.17271932,0.39171389){\rotatebox{10.32786885}{\makebox(0,0)[rb]{\smash{ZiaEsa}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=93]{img/tableau-no-first.pdf}}%
+    \put(0.1699219,0.40967538){\rotatebox{7.37704918}{\makebox(0,0)[rb]{\smash{ZioOrlando}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=94]{img/tableau-no-first.pdf}}%
+    \put(0.16805281,0.42775706){\rotatebox{4.42622951}{\makebox(0,0)[rb]{\smash{Matteo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=95]{img/tableau-no-first.pdf}}%
+    \put(0.16711703,0.44591099){\rotatebox{1.47540984}{\makebox(0,0)[rb]{\smash{Simona}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=96]{img/tableau-no-first.pdf}}%
+    \put(0.16711703,0.46408901){\rotatebox{-1.47540984}{\makebox(0,0)[rb]{\smash{Pietro}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=97]{img/tableau-no-first.pdf}}%
+    \put(0.16805281,0.48224294){\rotatebox{-4.42622951}{\makebox(0,0)[rb]{\smash{Ginetta}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=98]{img/tableau-no-first.pdf}}%
+    \put(0.1699219,0.50032462){\rotatebox{-7.37704918}{\makebox(0,0)[rb]{\smash{Oscar}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=99]{img/tableau-no-first.pdf}}%
+    \put(0.17643768,0.53607977){\rotatebox{-13.27868852}{\makebox(0,0)[rb]{\smash{PietroBonvicini}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=100]{img/tableau-no-first.pdf}}%
+    \put(0.18106709,0.55365843){\rotatebox{-16.2295082}{\makebox(0,0)[rb]{\smash{Elisa}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=101]{img/tableau-no-first.pdf}}%
+    \put(0.1865953,0.57097546){\rotatebox{-19.18032787}{\makebox(0,0)[rb]{\smash{MelissaBonvicini}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=102]{img/tableau-no-first.pdf}}%
+    \put(0.19300764,0.58798495){\rotatebox{-22.13114754}{\makebox(0,0)[rb]{\smash{NicoleBonvicini}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=103]{img/tableau-no-first.pdf}}%
+    \put(0.2002871,0.60464178){\rotatebox{-25.08196721}{\makebox(0,0)[rb]{\smash{GiuliaMarchina}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=104]{img/tableau-no-first.pdf}}%
+    \put(0.20841438,0.62090179){\rotatebox{-28.03278689}{\makebox(0,0)[rb]{\smash{PaoloCeretti}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=105]{img/tableau-no-first.pdf}}%
+    \put(0.21736794,0.63672186){\rotatebox{-30.98360656}{\makebox(0,0)[rb]{\smash{Alberto}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=106]{img/tableau-no-first.pdf}}%
+    \put(0.22712401,0.65206003){\rotatebox{-33.93442623}{\makebox(0,0)[rb]{\smash{Sara}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=107]{img/tableau-no-first.pdf}}%
+    \put(0.2489382,0.68112939){\rotatebox{-39.83606557}{\makebox(0,0)[rb]{\smash{Sayaka}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=108]{img/tableau-no-first.pdf}}%
+    \put(0.26093847,0.69478349){\rotatebox{-42.78688525}{\makebox(0,0)[rb]{\smash{Shintaro}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=109]{img/tableau-no-first.pdf}}%
+    \put(0.27362571,0.70780172){\rotatebox{-45.73770492}{\makebox(0,0)[rb]{\smash{Beta}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=110]{img/tableau-no-first.pdf}}%
+    \put(0.2869663,0.72014957){\rotatebox{-48.68852459}{\makebox(0,0)[rb]{\smash{Chiara}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=111]{img/tableau-no-first.pdf}}%
+    \put(0.30092485,0.73179429){\rotatebox{-51.63934426}{\makebox(0,0)[rb]{\smash{Sotu}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=112]{img/tableau-no-first.pdf}}%
+    \put(0.31546435,0.742705){\rotatebox{-54.59016393}{\makebox(0,0)[rb]{\smash{Dunga}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=113]{img/tableau-no-first.pdf}}%
+    \put(0.33054624,0.75285277){\rotatebox{-57.54098361}{\makebox(0,0)[rb]{\smash{Fernanda}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=114]{img/tableau-no-first.pdf}}%
+    \put(0.34613053,0.76221069){\rotatebox{-60.49180328}{\makebox(0,0)[rb]{\smash{Monzo}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=115]{img/tableau-no-first.pdf}}%
+    \put(0.37863977,0.77845987){\rotatebox{-66.39344262}{\makebox(0,0)[rb]{\smash{Dadinne}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=116]{img/tableau-no-first.pdf}}%
+    \put(0.39547851,0.78530804){\rotatebox{-69.3442623}{\makebox(0,0)[rb]{\smash{J}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=117]{img/tableau-no-first.pdf}}%
+    \put(0.41264746,0.79128029){\rotatebox{-72.29508197}{\makebox(0,0)[rb]{\smash{Silviett}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=118]{img/tableau-no-first.pdf}}%
+    \put(0.43010109,0.79636079){\rotatebox{-75.24590164}{\makebox(0,0)[rb]{\smash{Andre}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=119]{img/tableau-no-first.pdf}}%
+    \put(0.44779312,0.80053606){\rotatebox{-78.19672131}{\makebox(0,0)[rb]{\smash{Damianino}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=120]{img/tableau-no-first.pdf}}%
+    \put(0.46567663,0.80379503){\rotatebox{-81.14754098}{\makebox(0,0)[rb]{\smash{AliceTameni}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=121]{img/tableau-no-first.pdf}}%
+    \put(0.48370419,0.80612906){\rotatebox{-84.09836066}{\makebox(0,0)[rb]{\smash{GiorgioCalvi}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=122]{img/tableau-no-first.pdf}}%
+    \put(0.501828,0.80753195){\rotatebox{-87.04918033}{\makebox(0,0)[rb]{\smash{AndreaTornatore}}}}%
+  \end{picture}%
+\endgroup%
