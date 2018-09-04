@@ -8,17 +8,15 @@
  \usepackage[protrusion=true]{microtype}
 \addfont{OT1}{tap}{tapir}
  \defaultfontfeatures{Ligatures=TeX}
-  %\setmainfont{Josefin sans}
   \setmainfont{Minion Pro}
 \else
  \usepackage[utf8]{inputenc}
  \usepackage[T1]{fontenc}
  \usepackage[italian]{babel}
- %\usepackage[osf]{libertine}
  \usepackage[light]{CormorantGaramond}
  \linespread{.9}
 \fi
-\usepackage[paperwidth=130mm,paperheight=210mm,top=12mm,bottom=25mm,outer=20mm,inner=13mm]{geometry}
+\usepackage[paperwidth=148mm,paperheight=210mm,top=12mm,bottom=25mm,outer=29mm,inner=23mm]{geometry}
 \usepackage[]{matrita}
 \usepackage{indentfirst}
 \usepackage{graphicx}
@@ -98,10 +96,11 @@ Parrochia di San Bernardo in Costalunga - Brescia
 
 %\begin{flushleft}
 \begin{center}
-{\footnotesize Questo libretto é stato creato con Amore e con \LaTeX}
+{\footnotesize Questo libretto è stato creato con Amore e con \LaTeX}
 \end{center}
 %\end{flushleft}
 \clearpage
+\vfill
 \settowidth{\versewidth}{Il giorno al giorno ne affida il messaggio,}
 \canztitle{I cieli narrano}
 \begin{canzone}%[\versewidth]
@@ -122,7 +121,8 @@ esulta come un prode che corre\\
 con gioia la sua strada.
 \end{canzone}
 %\vspace{-0.5\baselineskip}
-
+%\vfill
+%\newpage
 \momento{Memoria del Battesimo}
 \introduzione
 
@@ -527,5 +527,6 @@ Ain't no valley low enough
 %Sono tre le parole che si devono dire sempre, tre parole che devono essere nella casa: \emph{permesso, grazie, scusa.}\\Le tre parole magiche. Con queste tre parole, con la preghiera dello sposo per la sposa e viceversa, con fare la pace sempre prima che finisca la giornata, il matrimonio andrà avanti.
 %\begin{flushright}Papa Francesco, 2 aprile 2014\end{flushright}
 %\end{quotation}
-
+\newpage\null\thispagestyle{empty}\newpage
+\newpage\null\thispagestyle{empty}\newpage
 \end{document}
