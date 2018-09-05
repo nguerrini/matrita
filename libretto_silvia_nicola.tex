@@ -44,63 +44,33 @@
 
 
 \begin{document}
+
 \newgeometry{left=15mm,right=15mm,top=20mm, bottom=30mm}
-{%
-\makeatletter
-\let\strippt\strip@pt
-\makeatother
-\newcommand{\firstpageornament}{% 
-\unitlength=1mm 
-
-\begin{picture}(0,0)% 
-\put(-19,13){\pgfornament[width=2cm]{37}}% 
-\put(87,13){%
-\pgfornament[width=2cm,symmetry=v]{37}}% 
-\put(-19,-175){%
-\pgfornament[width=2cm,symmetry=h]{37}}% 
-\put(87,-175){% 
-\pgfornament[width=2cm,symmetry=c]{37}}%
-\end{picture}}% 
-
-%\firstpageornament
-}
 
 \begin{center}
-%\vspace*{\stretch{0.1}}
-%\pgfornament[scale=.39]{72}\ {\Huge\textsf{matrita}}\ \pgfornament[scale=.39]{73}\\% 
-%\pgfornament[scale=.6]{85}\\[5em]
-%
-%il pacchetto per creare il libretto delle nozze di\\[5em]
-
-%{\Huge\hskip60pt\lower50pt\hbox{\itshape\usefont{OT1}{ppl}{m}{it}\textcolor{etgray}{\resizebox{35mm}{!}{\&}}} \hskip-175pt\sposa{} \hskip-20pt\lower40pt\hbox{\sposo}}
-
 \begin{figure}
 \vspace*{5cm}
 \centering
 \includegraphics[scale=0.3]{img/Logo_piccolo.eps}
-
-\huge \NSposo \ e \NSposa\\
+\huge \\ \NSposo \ e \NSposa\\
 \large 15 Settembre 2018\\
 \end{figure}
 \normalsize
-
 \vspace*{\stretch{3}}
 Parrochia di San Bernardo in Costalunga - Brescia
-
 \end{center}
 \restoregeometry
-%\clearpage
+
 \newpage\null\thispagestyle{empty}\newpage
+
 \afterpage{\cfoot{\thepage}}
-%\end{document}
 \null\vfill
-%\begin{flushleft}
 \begin{center}
 {\footnotesize Questo libretto è stato creato con Amore e con \LaTeX}
 \end{center}
-%\end{flushleft}
-%\clearpage
+
 \newpage\null\thispagestyle{empty}\newpage
+
 \settowidth{\versewidth}{Il giorno al giorno ne affida il messaggio,}
 \canztitle{I cieli narrano}
 \begin{canzone}%[\versewidth]
@@ -121,8 +91,7 @@ esulta come un prode che corre\\
 con gioia la sua strada.
 \end{canzone}
 %\vspace{-0.5\baselineskip}
-%\vfill
-%\newpage
+
 \momento{Memoria del Battesimo}
 \introduzione
 
@@ -283,33 +252,13 @@ Quando Gesù ebbe finito questi discorsi, le folle restarono stupite del suo ins
 \medskip
 
 \consegnanello
-%\vfill
-%\settowidth{\versewidth}{Per la luna e per le stelle,}
-%\canztitle{Canzone da definire 2}
-%\begin{canzone}%[versewidth]
-%\begin{ritornello}
-%Lorem ipsum,\\
-%Lorem ipsum,\\
-%Lorem ipsum,\\
-%Lorem ipsum
-%\end{ritornello}
-%
-%Lorem ipsum,\\
-%Lorem ipsum,\\
-%Lorem ipsum,\\
-%Lorem ipsum.
-%
-%Lorem ipsum,\\
-%Lorem ipsum,\\
-%Lorem ipsum,\\
-%Lorem ipsum.
-%\end{canzone}
 \linebreak
 \begin{center}
 \includegraphics[scale=0.1]{img/cuori_venn.eps}
 \end{center}
 \vfill
 \pagebreak
+
 \momento{Preghiere dei fedeli}
 \introfedeli
 \preghierefedeli
@@ -521,7 +470,6 @@ Ain't no valley low enough
 \vfill
 \begin{center}
 \includegraphics[scale=0.1]{img/cuori_venn.eps}\\
-%{\footnotesize Questo libretto é stato creato con Amore e con \LaTeX.}
 \end{center}
 %\begin{quotation}\small\selectlanguage{italian}
 %Sono tre le parole che si devono dire sempre, tre parole che devono essere nella casa: \emph{permesso, grazie, scusa.}\\Le tre parole magiche. Con queste tre parole, con la preghiera dello sposo per la sposa e viceversa, con fare la pace sempre prima che finisca la giornata, il matrimonio andrà avanti.
